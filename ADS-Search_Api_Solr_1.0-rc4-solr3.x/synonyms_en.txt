@@ -31,3 +31,10 @@
 # Note: blank lines and lines starting with pound are comments.
 #
 
+#
+# Animals
+Livestock, domesticated animals, farm animals
+#
+# Business
+MLM, Multi-level marketing
+
