@@ -34,7 +34,23 @@
 #
 # Animals
 Livestock, domesticated animals, farm animals
-#
+
 # Business
 MLM, Multi-level marketing
 
+# Community
+Announcements, Public Notices
+
+# Dating
+Adult chat lines, Phone Sex, Sex Hotline
+STD, Sexually transmitted disease
+
+# Vehicles
+RV, Motorhome, Motor coach
+Campervan, Camper van, Caravanette
+TC, Truck camper
+Popup camper, Pop-up camper, Tent trailer
+Travel trailer, Caravan
+Teardrop trailer, Teardrop camper trailer
+Vintage car, Antique car, Veteran car
+Automobile, Car, Motorcar, Sedan, Roadster, Auto, Coupe
