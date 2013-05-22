@@ -35,23 +35,32 @@
 # Animals
 Livestock, domesticated animals, farm animals
 
+#
 # Business
 MLM, Multi-level marketing
+MYOB, Mind Your Own Business
+CRM, Customer relationship management
 
-# Dating
-XXX, Sex, Porn
-
+#
 # Community
 Announcements, Public Notices
 
+#
 # Dating
 Adult chat lines, Phone Sex, Sex Hotline
 STD, Sexually transmitted disease
+XXX, Sex, Porn
 
+#
+# Finance
+FX, Forex, Foreign Exchange, Currency Market
+
+#
 # Items
 Television, Televisions, TV, TVs
 
 # IT - abbreviations
+IT, Information Technology
 CRM, Customer relationship management
 SAS, Statistical Analysis System
 SEM, Search engine marketing
@@ -98,6 +107,7 @@ Linux => Ubuntu, Red Hat, Debian, Slackware
 web browser => Chrome, Firefox, Internet Explorer
 OO => Object-oriented, Object oriented, Open Office
 Assembler => TASM
+IRC, Internet Relay Chat
 # IT - software
 Chrome => Google Chrome
 Firefox => Mozilla Firefox
@@ -112,10 +122,14 @@ KB,kib,kilobyte,kilobytes
 open source, GPL, GNU
 wiki, wikipedia
 Text processor, word processor
+Freelancing, Outsourcing
 
+#
 # Jobs
+HR, Human Resources
 QA, Quality assurance
 
+#
 # Vehicles
 RV, Motorhome, Motor coach
 Campervan, Camper van, Caravanette
