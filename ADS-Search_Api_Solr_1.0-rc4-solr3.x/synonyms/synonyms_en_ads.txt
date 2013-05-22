@@ -48,6 +48,9 @@ Announcements, Public Notices
 Adult chat lines, Phone Sex, Sex Hotline
 STD, Sexually transmitted disease
 
+# Items
+Television, Televisions, TV, TVs
+
 # IT - abbreviations
 CRM, Customer relationship management
 SAS, Statistical Analysis System
@@ -100,6 +103,11 @@ Chrome => Google Chrome
 Firefox => Mozilla Firefox
 Word, Microsoft Word
 Java => J2EE, J2ME, J2SE
+# IT - units
+# Note: we use "gib" instead of "GiB" so any WordDelimiterFilter coming after us won't split it into two words.
+GB,gib,gigabyte,gigabytes
+MB,mib,megabyte,megabytes
+KB,kib,kilobyte,kilobytes
 # IT - synonyms
 open source, GPL, GNU
 wiki, wikipedia
