@@ -102,6 +102,14 @@ Asm, Assembler
 UI, User Interface
 UX, User Experience
 CGI, Computer-Generated Imagery, Common Gateway Interface
+IASA, Global IT Architect Association
+RDBMS, relational database management system
+SSRS, SQL Server Reporting Services
+SSIS, SQL Server Integration Services
+ETL, Extract, Transform and Load
+VBS, VBScript, Visual Basic Scripting, Visual Basic Script
+GMI, Global Market Insite
+MRO, maintenance, repair, and operations, Maintenance, Repair, and Overhaul
 # IT - technology and associated names
 Linux => Ubuntu, Red Hat, Debian, Slackware
 web browser => Chrome, Firefox, Internet Explorer
@@ -128,6 +136,10 @@ Freelancing, Outsourcing
 # Jobs
 HR, Human Resources
 QA, Quality assurance
+BBA, Bachelor of Business Administration
+PMP, Project Management Professional
+CGA, Certified General Accountants
+DevOps, DevOp, Development and Operations
 
 #
 # Vehicles
