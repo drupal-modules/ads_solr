@@ -110,6 +110,7 @@ ETL, Extract, Transform and Load
 VBS, VBScript, Visual Basic Scripting, Visual Basic Script
 GMI, Global Market Insite
 MRO, maintenance, repair, and operations, Maintenance, Repair, and Overhaul
+ALGO, Algo, Algorithmic
 # IT - technology and associated names
 Linux => Ubuntu, Red Hat, Debian, Slackware
 web browser => Chrome, Firefox, Internet Explorer
