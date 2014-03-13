@@ -1,0 +1,1628 @@
+abase,lower
+abdomen,belly
+abnormality,irregularity
+abominably,dreadfully
+abreast,side by side
+abstemious,temperate
+abstractedly,distractedly
+abstruseness,mysteriousness
+abuse,manipulate
+abysmally,appallingly
+accepted,usual
+accidentally,fortuitously
+accounts,financial statement
+accouterments,accessories
+accreditation,official approval
+accuracy,correctness
+acerbic,mordant
+achiever,high flier
+acquiescence,compliance
+acquirement,gaining
+acreage,land
+additional,bonus
+adherent,believer
+adulterous,double-crossing
+aeration,airing
+affected,unnatural
+affecting,distressing
+affirm,pronounce
+affordable,reasonably priced
+afloat,floating
+agile,lithe
+agreed,decided
+album,baby book
+alcove,recess
+Allie's,associates
+allot,give
+allotted,agreed
+altered,changed
+alternation,vacillation
+alternative,different
+altruistically,unselfishly
+amateurish,crude
+amiss,wrong
+amongst,among
+amortize,repay
+amount,quantity
+amputate,cut off
+amputation,taking away
+ancient,very old
+angle,slant
+angrily,furiously
+annals,archives
+annihilation,extermination
+annoying,irritating
+annuity,pension
+antic,adventure
+antithesis,reverse
+antithetical,adversative
+apathetically,indifferently
+apogee,highest point
+apology,explanation
+apparel,clothes
+apparently,rumor has it that
+applied,useful
+appreciably,palpably
+apprehensive,worried
+approach,deal with
+appurtenances,paraphernalia
+apropos,about
+aptly,appropriately
+arbitrary,illogical
+arbitrator,judge
+archdiocese,see
+archway,pergola
+armaments,missiles
+armistice,settlement
+arrangement,agreement
+arranger,director
+arrears,debts
+arrived,indoors
+arriving,incoming
+artlessness,inexperience
+askance,doubtfully
+assassinate,kill in cold blood
+assuage,moderate
+astounded,flabbergasted
+astral,stellar
+astronomical,astrophysical
+attendants,followers
+attentiveness,special treatment
+auditorium,audience
+augmented,greater than before
+auspices,patronage
+auspicious,promising
+authorities,establishment
+average,mean
+averse,unenthusiastic
+awaken,promote
+awkward,difficult to maneuver
+bachelor,single
+backache,bad back
+backside,rear
+backtrack,back down
+balderdash,rubbish
+balloon,helium balloon
+bamboozled,confused
+bandit,brigand
+banish,send away
+bankruptcy,liquidation
+barometer,guide
+bathtub,tub
+bawling,crying
+bearing,impact
+beautiful,wonderful
+becalm,rest
+beckon,summon
+bedclothes,comforter
+before,previous to
+beggar,tramp
+belie,contradict
+belongings,personal effects
+below,not more than
+benign,compassionate
+benignly,kindly
+betraying,informative
+bewildered,taken aback
+biennially,every other year
+bifurcate,split
+bigger,larger
+biggest,largest
+bigmouth,blabbermouth
+bilateral,two-pronged
+biology,ecology
+blastoff,explosion
+bleat,complain
+block,check
+blundering,clumsy
+blunted,dull
+bodywork,carcass
+bonnet,sun-hat
+bookshelf,ledge
+booming,thriving
+boorish,ill-mannered
+borer,tool
+borough,municipality
+bountiful,unstinted
+bowed,convex
+bowls,crockery
+boycott,impose sanctions
+brassy,loud
+bridle,check
+briefcase,suitcase
+brimming,overflowing
+briny,salty
+bronzed,suntanned
+bruising,yellowing
+brunt,burden
+brushwood,kindling
+brusque,curt
+brutally,cruelly
+brute,beast
+buddies,followers
+budge,shunt
+bungle,make a mess of
+bungling,unskilled
+bunker,ditch
+bunkum,hogwash
+burble,go on about something
+bureaucratic,ceremonial
+bustle,activity
+byway,side street
+cackle,guffaw
+cagey,evasive
+callused,scratchy
+calmed,pleased
+camouflage,concealment
+cancellation,abandonment
+cannily,shrewdly
+canter,trot
+capacious,large
+carnage,butchery
+carryout,accomplish
+casement,windowpane
+case's,gear
+cataloging,labeling
+caustic,mordant
+cavernous,echoing
+cease,conclude
+celebratory,triumphant
+cellar,vault
+cemented,covered
+centralized,federal
+chance,opportunity
+chances,probability
+changeable,unstable
+character,reputation
+charily,with awareness
+Charity,kindness
+charmingly,alluringly
+chassis,skeleton
+chastising,imprisoning
+chatty,friendly
+chauffeur,give somebody a ride
+checker,organizer
+checking,read-through
+cheerlessness,dinginess
+cherish,revere
+childlessness,aridity
+chime's,bells
+chinos,wash pants
+chintzy,gaudy
+chirping,twittering
+chitchat,chat
+chore's,farm duties
+chorister,chorus member
+christening,launch
+chubby,rotund
+chuckle,chortle
+circumstances,conditions
+citizen's,society
+civilization,people
+civilized,elegant
+civilly,courteously
+clairvoyant,diviner
+clandestinely,illegally
+clanging,ringing
+clannish,family
+clasp,fastening
+classless,equal
+classmate's,equals
+clench,scrunch
+closeness,nearness
+clutter,mess
+coagulate,congeal
+coalition,association
+coating,varnish
+coded,roundabout
+coerce,compel
+coexisting,contemporaneous
+cohabit,share a house
+colic,tummy pain
+college,institution
+collision,crash
+colors,insignia
+combustible,explosive
+comeuppance,what you deserve
+comically,ridiculously
+commemorate,observe
+comments,observations
+commercial,money-making
+commiseration,pity
+companionable,friendly
+comparison,evaluation
+competency,proficiency
+completing,carrying out
+component's,workings
+composition,arrangement
+comprehensive,wide-ranging
+computerize,mechanize
+concerned,worried
+concurrent,acquiescent
+conflagration,fire
+confluence,joining together
+connected,together
+conniving,scheming
+connoisseur,enthusiast
+conscientiousness,delicacy
+conscript,recruit
+consequential,resultant
+consider,deliberate
+consign,transfer
+consoling,cheering
+conspicuously,noticeably
+constellation,gathering
+contaminate,sully
+contemplation,deliberation
+content,make happy
+contrast,draw a distinction
+contrasting,distinct
+contretemps,row
+contrition,sorrow
+coordinator,manager
+copious,abundant
+copycat,impressionist
+corkscrew,curved
+corpus,body
+cosmological,astrophysical
+costing,estimate
+cottage,log cabin
+counterbalance,balance
+coupon,voucher
+course,way
+court's,bench
+covered,roofed
+covering,casing
+covetous,envious
+crassly,ridiculously
+craving,appetite
+Creator,designer
+credence,weight
+credentials,certificate
+creditably,respectably
+credo,principles
+credulous,uncritical
+crookedness,wickedness
+crossroad's,turning point
+culpability,responsibility
+cultivated,refined
+culturally,ethnically
+curtly,brusquely
+customer's,consumers
+cuteness,good looks
+dangle,sway
+darken,grow dim
+deactivate,neutralize
+debasing,undignified
+debut,introduction
+deceit,pretense
+deceptiveness,inaccuracy
+decipher,work out
+decipherable,readable
+decomposed,musty
+defame,offend
+defeatism,loser mentality
+defensive,guilty
+defiance,boldness
+defined,definite
+definiteness,unwaveringness
+dejectedly,miserably
+deliciousness,attractiveness
+deliverance,liberation
+delude,mislead
+denim's,wash pants
+denizen,native
+denotation,sense
+densely,heavily
+department,specialty
+depravity,wantonness
+deprecating,offensive
+deride,disparage
+derisive,scornful
+derrick,platform
+desegregate,reunite
+deserter,renegade
+desires,wishes
+despairingly,miserably
+desperado,crook
+destabilize,threaten
+deterrence,preclusion
+developed,urban
+device,contrivance
+devices,diplomacy
+dictum,instruction
+differ,clash
+difference,variation
+dimness,softness
+diploma,qualification
+direct,preside over
+directed,aimed at
+directions,information
+director,boss
+dirtiness,griminess
+dirty,soil
+disapproving,judgmental
+disapprovingly,contemptuously
+disarrange,mess up
+disciplined,restricted
+discouragingly,unpromisingly
+discoverer,explorer
+disfigured,spoiled
+dished,hollow
+dishevel,unsettle
+dishonestly,by corrupt means
+dishonored,defiled
+disillusioned,disenchanted
+disincentive,lack of encouragement
+disinclined,loath
+disintegrate,split up
+disinter,unearth
+diskette,floppy
+dismay,shock
+disobliging,rude
+disorganized,confused
+disparaging,weary
+disparate,unequal
+dispenser,point
+dispensing,providing
+dispersal,diffusion
+dispirit,cast down
+displease,offend
+dispossess,divest
+disputable,arguable
+disqualified,ineligible
+dissatisfaction,unhappiness
+dissect,analyze
+distrust,disbelief
+distrustfully,warily
+disturbingly,distressingly
+divan,sofa
+divulging,sensational
+docile,obedient
+dogmatism,rigor
+domain,field
+donor,patron
+downer,pity
+downsize,downscale
+downy,soft
+drabness,plainness
+drawing,depiction
+dreamer,idealist
+dreamlike,weird
+dredge,scour
+dressy,stylish
+drills,military exercises
+drink,taste
+drizzly,wet
+drool,slobber
+drooping,loose
+dryness,understatement
+during,all through
+dustiness,squalidness
+dutifully,respectfully
+dwindle,fade
+dying,failing
+earnestly,solemnly
+easygoing,laid-back
+eatable,palatable
+eccentricity,idiosyncrasy
+ecclesiastic,minister
+ecclesiastical,clerical
+edginess,shakiness
+edible,not poisonous
+electrifying,exhilarating
+elongate,draw out
+eloquence,articulacy
+emaciated,wasted
+emancipated,liberated
+emasculated,feeble
+embark,go aboard
+embezzler,dishonest person
+emblazon,splash
+embody,symbolize
+emission,emanation
+emphasis,accent
+emphatic,vigorous
+empty,unfilled
+enamored,charmed
+encompassing,on all sides of
+encouraged,positive
+endearment,sweet nothing
+enemy,rival
+energizing,reviving
+engender,stimulate
+engraving,impression
+enigma,mystery
+enliven,cheer up
+enormity,extent
+entangled,knotted
+entombment,committal
+entrap,capture
+entrust,commend
+envelop,encircle
+envoy,diplomat
+ephemeral,transient
+epithet,appellation
+equably,steadily
+equity,justice
+eradication,obliteration
+escalate,soar
+eschew,steer clear of
+establish,set up
+estrange,set against
+etched,carved
+evacuation,migration
+evict,force to leave
+evidence,prove
+evoke,stir up
+exaltation,happiness
+excellent,exceptional
+except,apart from
+exception,exclusion
+excitedly,elatedly
+excretion,flow
+excruciating,awful
+exhilarated,joyous
+exigency,necessity
+exile,?migr?
+expandable,supple
+expel,banish
+explicate,spell out
+expressionless,inexpressive
+expressive,representative
+extemporize,do off-the-cuff
+extemporized,ad lib
+extended,total
+extermination,killing
+extradition,expulsion
+extricate,remove
+exuberantly,raucously
+eyeful,thing of beauty
+fabrication,forgery
+fabulous,amazing
+facade,front elevation
+facet,quality
+facetious,tongue in cheek
+faded,discolored
+failure,stoppage
+faithfulness,realism
+faithlessly,disloyally
+falls,cascade
+familiar,traditional
+famously,particularly
+Farmer,planter
+farming,undeveloped
+fascination,lure
+fashionably,modishly
+faster,nearer
+fatherly,protective
+fatiguing,arduous
+fatten,build up
+favorably,fortunately
+fearfully,uneasily
+fetching,handsome
+fighters,battalion
+figure's,information
+figurines,china doll
+filmy,gauzy
+filthiness,grubbiness
+financier,supporter
+firebrand,hothead
+fireplace,fire
+flabbergasted,astounded
+flaky,blistering
+flamboyance,splendor
+flaming,angry
+flask,container
+flexible,bendable
+flightiness,capriciousness
+flighty,fickle
+flirtatious,teasing
+florid,baroque
+fluffiness,flimsiness
+flummox,flabbergast
+fodder,feed
+foolishly,unwisely
+foolishness,silliness
+footfall,step
+forager,searcher
+forebear,precursor
+foregone,inescapable
+forename,maiden name
+forestall,anticipate
+forested,wooded
+forever,perpetually
+forewarning,sign
+formality,form
+formless,amorphous
+fortress,fort
+fostering,development
+fouled,ruined
+fractional,incomplete
+freebie,free go
+freeloader,user
+frivolities,goings-on
+fudging,elusion
+furtive,clandestine
+fussbudget,worrywart
+gaggle,throng
+garbage,nonsense
+gargantuan,massive
+garland,wreath
+garret,top story
+garrulous,talkative
+gaudiness,flamboyance
+generality,simplification
+generalization,sweeping statement
+genially,warmly
+genteel,refined
+genuflection,bow
+giveaway,good buy
+glacial,cool
+glibly,fluently
+glibness,smoothness
+gloom,obscurity
+goggles,specs
+governance,power
+gracelessness,coarseness
+grainy,gritty
+grandparent,forerunner
+grate,grille
+grave,burial chamber
+gravely,grimly
+grenade's,bullets
+griddle,grill
+grime,dust
+gripe,objection
+gripes,heartburn
+groom,tutor
+grounding,preparation
+ground's,justification
+grumbler,complainer
+grumbling,upset
+guiltily,sneakily
+gumbo,bouillabaisse
+gutless,timid
+guzzle,scoff
+gyrating,circling
+habitat,surroundings
+habits,lifestyle
+halcyon,heavenly
+halfheartedly,lackadaisically
+handgun,small arm
+handout's,gifts
+haphazard,messy
+hapless,luckless
+hardheartedly,uncaringly
+hardheartedness,pitilessness
+harmed,injured
+harm's,tribulations
+harness,utilize
+hatch,insert
+haughtily,conceitedly
+hawker,marketer
+headgear,headdress
+headphone's,receiver
+headstrong,reckless
+health,shape
+hearing,examination
+hearsay,unconfirmed report
+heartwarming,cheering
+heavily,solidly
+heavyweight,durable
+heckle,boo
+heighten,increase
+helpfully,usefully
+hiccup,hitch
+higher,privileged
+hiker,backpacker
+hilltop,crest
+historical,past
+hoarse,raucous
+hobble,shamble
+hobgoblin,bad fairy
+holdup,difficulty
+honeyed,mellifluous
+honoring,reverence
+hoodwink,fool
+hopefully,with a bit of luck
+horrible,dreadful
+housebreak,tame
+hubbub,racket
+hulking,large
+humanizing,improving
+humankind,people
+humdrum,routine
+humorless,solemn
+hustle,bundle
+hutch,cage
+hypersensitive,touchy
+ignored,unseen
+imaginable,that you can think of
+imbibe,absorb
+imitator,impressionist
+immaturely,babyishly
+immediately,at once
+immoderate,excessive
+impatiently,excitedly
+impeachment,accusation
+imperceptibly,slight
+imperfection,flaw
+imperishable,never-ending
+impinge,impose
+implacable,hardhearted
+implication,proposition
+impoliteness,rudeness
+importantly,significantly
+importune,plague
+impound,put in store
+impoverished,on the breadline
+imprecise,hazy
+improbably,oddly
+impulsively,on impulse
+incisively,cleverly
+incisor,fang
+incompatibility,inappropriateness
+inconspicuously,unassumingly
+incorporeal,disembodied
+incorrigibly,insuppressibly
+increasing,rising
+indecision,vacillation
+indecisiveness,vagueness
+indiscreetly,imprudently
+indiscretion,misdemeanor
+indulgently,adoringly
+industrialist,manufacturer
+industriously,assiduously
+ineligible,disallowed
+inevitability,predictability
+inexorable,unalterable
+infallibly,reliably
+infamously,notoriously
+infertile,barren
+infinite,endless
+inflames,alight
+inflammable,combustible
+infuriate,annoy
+inheritor,heir
+injunction,ban
+inkling,idea
+innuendo,allusion
+insatiably,avidly
+inscribed,decorated
+insignia,sign
+insincerely,disingenuously
+insolently,impudently
+insolvency,liquidation
+instantly,right away
+insubordinate,noncompliant
+insular,narrow
+intellectually,academically
+intelligible,understandable
+intensify,strengthen
+interface,boundary
+interlink,intermingle
+interrogation,grilling
+interrogative,inquiring
+intriguingly,attractively
+introspective,thoughtful
+introvert,recluse
+investiture,installation
+inviolability,blessedness
+inviting,appealing
+invoice,send somebody a statement
+involuntary,compulsory
+irascible,short-tempered
+irreparable,irreversible
+irresolute,unsure
+irretrievable,severe
+irritability,bad temper
+isthmus,neck of land
+itinerant,traveling
+jangle,clank
+janitor,gatekeeper
+jeopardy,difficulty
+jersey,sweater
+jettison,abandon
+jewel,rock
+jingoism,nationalism
+jingoistic,nationalistic
+jobless,out of work
+joined,tied
+joist,spar
+jokingly,teasingly
+juggler,magician
+justify,give explanation for
+keyhole,spy-hole
+kindhearted,kind
+kindle,rouse
+kiosk,stand
+kitschy,tasteless
+knack,ability
+labors,efforts
+ladle,scoop
+lagging,sheathing
+lament,crying
+lamentation,crying
+lands,domain
+lassitude,stupor
+lateness,tardiness
+latterly,in the last part
+lawfully,legally
+layered,covered
+layout,describe
+leakage,leak
+learning,culture
+lease,rent
+leathery,tough
+legatee,successor
+legwork,spadework
+leprechaun,sprite
+lessee,lodger
+lethargic,exhausted
+lethargy,stupor
+liberalize,loosen
+liberated,open-minded
+licentious,profligate
+lifelike,authentic
+lightened,sun-bleached
+lightness,flimsiness
+limitless,infinite
+lingo,jargon
+linking,between
+links,associations
+link's,family
+liquefy,turn to liquid
+listed,programmed
+loathe,detest
+loathed,abhorrent
+lobbyist,asker
+locks,mane
+lofty,exalted
+lopsided,unbalanced
+loudly,at full volume
+lounge,sprawl
+lowbrow,popular
+lozenge,tablet
+lubricant,fat
+lucidness,simplicity
+lumpiness,bad finish
+lusciously,deliciously
+luster,sheen
+luxuriate,soak up
+machination,plot
+machination's,intrigues
+magistrates,courts
+magistrate's,bench
+maharishi,counselor
+majority,margin
+making,building
+maliciously,spitefully
+malignancy,melanoma
+maltreated,ill-treated
+manhandle,hustle
+manliness,maleness
+marauding,prowling
+marina,yachting marina
+marmalade,jelly
+marooned,stuck
+marred,blemished
+marshy,soggy
+martyr,sacrificial victim
+masculinity,manliness
+masterwork,stunning success
+matchless,beyond compare
+material,notes
+materialism,avariciousness
+materialistic,worldly
+mathematical,algebraic
+maturing,budding
+maximum,most
+measure,rate
+mechanization,computerization
+mediocre,middle-of-the-road
+medium,standard
+melodramatically,sensationally
+member,limb
+memoir,chronicle
+merciful,gracious
+meritorious,commendable
+merrily,blithely
+mesmerize,enthrall
+mesmerized,awestruck
+messenger,courier
+method,mode
+minerals,mineral deposits
+minute's,record
+mired,delayed
+misbehave,behave badly
+mischief,waywardness
+mischievously,impishly
+misdemeanor's,misbehavior
+miserly,paltry
+misinformation,propaganda
+misstep,slip
+mobster,hoodlum
+mocking,derisive
+modernistic,radical
+moist,damp
+monastic,simple
+monies,duty
+monstrosity,horror
+moody,morose
+motorboat,launch
+mountaineer,climber
+mourn,grieve
+mournfulness,misery
+mouth,backtalk
+movable,changeable
+muffle,dampen
+muggy,warm
+mumbled,muttered
+mural,frieze
+murmur,talk softly
+mutton,venison
+myopia,shortsightedness
+mystification,incomprehension
+narrate,report
+nasty,grave
+natal,biological
+nattily,tastefully
+naturalize,grow wild
+nauseous,revolting
+nautical,marine
+naval,sailing
+navigable,traversable
+negatively,with a denial
+neighboring,next
+nervously,timidly
+neurotic,overanxious
+neutralize,deactivate
+night,nighttime
+nimble,dexterous
+noisiness,unruliness
+nomination,appointment
+nominee,contender
+nonaligned,impartial
+nonbreakable,durable
+nonchalant,blas?
+nonplus,throw
+nonrefundable,throwaway
+nonsensical,illogical
+nonstandard,unusual
+noontime,the middle of the day
+notched,serrated
+nowadays,currently
+noxious,deleterious
+number,digit
+numberless,innumerable
+nursery,plant sales outlet
+oasis,sanctuary
+obedience,respect
+obeisance,bend
+oblivious,insensible
+obnoxiously,repulsively
+obscure,block out
+obtuse,dull-witted
+obviate,prevent
+occasional,rare
+occasionally,irregularly
+occurring,in the works
+oddness,peculiarity
+offering's,gifts
+office,personnel
+official,authoritative
+onslaught,attack
+opinionated,dogmatic
+opposition,challenger
+oppressively,repressively
+option,selection
+optional,discretionary
+opulence,richness
+oratory,public speaking
+ordain,establish
+orderly,well-behaved
+Orient,learn about
+origin's,origin
+ornament,decorate
+ornamental,showy
+orphan,stray
+oscillate,alternate
+outfits,fashion
+outside,further than
+outsmart,overcome
+ovation,great reception
+overcast,cloudy
+overextend,go too far
+overhaul,fix
+overlie,cover
+overpower,conquer
+overruling,dominant
+oversensitive,touchy
+overstep,contravene
+owner,title-holder
+pacification,appeasement
+packet,carton
+palpable,blatant
+paper,document
+parallelogram,quadrilateral
+parasite,leech
+parcel,bundle
+parcel's,correspondence
+parishioner's,worshippers
+parsonage,church house
+partaker,participant
+partnership,relationship
+pastel,pallid
+pastiche,imitation
+pastime,distraction
+paternity,parenthood
+patrol,make the rounds
+patronage,aid
+patronizing,full of yourself
+pattern,sample
+payer,spender
+pearly,lustrous
+pedagogical,educational
+peddle,advertise
+penetrate,infiltrate
+peppy,animated
+perceptive,discerning
+perceptively,understandingly
+percussion,hitting
+perfectly,impeccably
+perfidy,betrayal
+performer,architect
+perished,corroded
+perky,playful
+permeable,holey
+permissiveness,liberalism
+pernicious,evil
+personalized,tailored
+personified,in material form
+perspicuity,lucidity
+persuasive,believable
+pessimist,worrywart
+Petty,inconsequential
+phenomenally,astonishingly
+philanthropist,generous contributor
+photography,shooting
+phraseology,word choice
+physician,doctor
+pickings,proceeds
+picturesque,pictorial
+piercingly,harshly
+piggish,acquisitive
+piling,strut
+pimple,spot
+pinnacle,peak
+pinup,star
+piteously,sadly
+pitiless,callous
+pivot,axis
+plain,unadorned
+plane,smooth
+platonic,companionable
+platoon,group
+plays,the stage
+plead,pray
+pleasant,lovely
+pleasing,lovely
+pleasurably,pleasantly
+plebeian,popular
+plenteous,bountiful
+pluckiness,stalwartness
+plumb,utterly
+plundering,preying
+plunging,plummeting
+pockmark,indentation
+pompously,arrogantly
+poncho,cape
+ponder,brood over
+pooled,collective
+poppycock,foolishness
+porch,overhang
+possessive,selfish
+potion,brew
+potpourri,collection
+practically,virtually
+prearranged,approved
+precarious,unstable
+precinct's,area
+predatory,rapacious
+preemptive,defensive
+preferred,ideal
+prelude,preface
+prescriptive,regulatory
+press,push
+presumption,boldness
+presumptuous,audacious
+pretext,cause
+prettiness,cuteness
+prevailing,existing
+preventative,blocking
+pricey,high-priced
+princely,handsome
+principle's,main beliefs
+privation,neediness
+processing,dispensation
+profanely,sacrilegiously
+professionally,well
+programming,brainwashing
+prohibitive,too expensive
+prominence,eminence
+pronouncement,declaration
+propagate,publicize
+propel,force
+proper,genteel
+property,material goods
+prosaic,colorless
+prospect,possibility
+prospect's,prediction
+prosper,flourish
+protectively,warmly
+protestation,avowal
+protester,demonstrator
+provenance,attribution
+provide,grant
+providence,divine intervention
+providing,as long as
+psychiatry,analysis
+publicized,shown
+pulley,crane
+pulsate,pulse
+pummel,strike
+pureness,integrity
+pushing,approaching
+quaff,imbibe
+quake,shake
+quartet,foursome
+questioningly,skeptically
+quietness,quiet
+quill,spine
+quintessential,prototypical
+rabble,common herd
+raffle,draw
+rakish,casual
+rakishness,debauchery
+rally,revive
+rambler,walker
+ramification,upshot
+rangy,gangling
+ranking,status
+rapturous,joyful
+rascal,scalawag
+rashness,haste
+rate's,tariff
+ratifying,endorsement
+raucously,roughly
+reassemble,mend
+reawakening,rebirth
+rebellion,uprising
+rebut,refute
+recent,contemporary
+reciprocate,return
+recline,stretch out
+reconsideration,re-examination
+reconstruction,rebuilding
+record's,account
+rectory,residence
+recurrent,persistent
+redeploy,send
+rediscover,find again
+redolent,scented
+reduce,lower
+reduction,saving
+reevaluate,have another look at
+regalia,insignia
+regularize,normalize
+reheat,thaw
+rejoice,express joy
+rejoinder,retort
+related,correlated
+relent,cave in
+relentlessly,inexorably
+reliable,dependable
+relic,leftover
+reload,top off
+remaining,left over
+rematch,another game
+remove,take out
+remunerated,compensated
+renovation,restoration
+renter,lessee
+reparation,recompense
+repast,banquet
+repellent,resistant
+replicated,fake
+reportedly,seemingly
+repository,storage area
+repressive,suppressive
+reprimand,scolding
+reprobate,troublemaker
+reprocess,salvage
+reproof,scolding
+repute,standing
+rerun,repeat
+rescheduling,postponement
+resident,inhabitant
+residue,filtrate
+resignedly,wearily
+resort,alternative
+respects,good wishes
+respirator,ventilator
+respire,inhale
+resplendently,brilliantly
+restive,restless
+restock,refill
+restore,renovate
+result,upshot
+resumption,recommencement
+resuscitate,revivify
+retell,repeat
+rethink,move around
+reticent,silent
+retrenchment,economizing
+revitalized,re-energized
+revolutionize,transfigure
+rework,redraft
+rhythmic,regular
+ribbons,streamers
+riddle,pepper
+ridiculousness,absurdity
+rifle,rummage though
+rights,civil rights
+ringleader,inciter
+riverside,shore
+roadside,edge
+roadway,thoroughfare
+robe's,fine clothes
+rogue,rascal
+roofed,enclosed
+roost,sleep
+roughly,unevenly
+rucksack,backpack
+ruefully,humbly
+ruggedness,austerity
+rule's,regulations
+rumination,thoughts
+rumor,report
+runoff,extra
+rupture,division
+ruthlessness,callousness
+sanguine,hopeful
+sanitarium,clinic
+sapped,worn out
+satiated,full
+satirical,humorous
+scabbard,cover
+scalding,sweltering
+scale's,balance
+scheme,machinate
+scholarship,erudition
+school,teach
+schoolgirl,child
+scintillating,lively
+score,notch
+scrambled,twisted
+screenwriter,dramatist
+scrumptious,delightful
+scrunch,crush
+searing,intense
+secrecy,mystery
+sedate,stately
+sedately,placidly
+seeking,in quest of
+segregate,set aside
+seizure,spasm
+selected,elected
+selfishness,egocentricity
+semicircle,arc
+sensations,feelings
+sense's,right mind
+sensor,feeler
+sentence,condemn
+septic,festering
+sepulcher,resting place
+sequin's,tinsel
+serendipity,kismet
+series,run
+setback,hold up
+settle,descend
+sewer,drain
+shabbily,despicably
+shaded,cool
+shadows,darkness
+shadowy,eerie
+shaft,bar
+shakedown,extract
+shamble,amble
+shamefulness,unworthiness
+shattering,earth-shattering
+shatterproof,durable
+she'd,cast off
+sheen,luster
+sheepishly,shamefacedly
+sheet,page
+shirker,slowcoach
+shoplift,filch
+shores,coast
+shortly,before long
+shortsightedness,narrow view
+shovel,spade
+showily,flashily
+shrub's,bushes
+shutting,end
+shuttle,ferry
+sickly,wan
+sidekick,associate
+siege,blockade
+siesta,rest
+similarly,also
+simile's,images
+simply,austerely
+sinner,malefactor
+skewer,impale
+skillfully,adeptly
+skimpiness,stinginess
+slackly,with a loose knot
+slapdash,haphazard
+slaughter,killing
+sleazily,ignobly
+sleekness,thinness
+sleepily,fuzzily
+slither,skid
+slops,pig food
+slouch,droop
+smaller,less important
+smarmy,creepy
+smattering,modicum
+smear,tarnish
+smeared,grubby
+smoky,opaque
+smoothed,round
+smugness,haughtiness
+snipe,do down
+snobbish,conceited
+soaring,towering
+social,shared
+soloist,songster
+solution,key
+someplace,wherever
+somersaulting,diving
+somewhat,to some extent
+sonata,opus
+sophisticated,refined
+sophistry,lack of imagination
+soprano,penetrating
+spared,safe
+sparkling,luminous
+specialization,area
+specified,individual
+speciously,inaccurately
+spectator,onlooker
+spectators,audience
+speech,address
+spellbound,fascinated
+spherical,round
+spine,vertebrae
+spineless,cowardly
+spinster,free
+spiraling,growth
+splintering,breakage
+splurge,go on a bender
+spoke,spar
+spokesperson,voice
+spokeswoman,lecturer
+spotless,pristine
+spotlessly,without a flaw
+spotted,blemished
+sprig,twig
+spying,intelligence work
+squandering,spendthrift
+squirrel,stasher
+staffing,conscription
+stagnate,vegetate
+stairway,set of steps
+stalker,tail
+stash,hoard
+statistic,marker
+statuette,figurine
+steadiness,dependability
+steamroll,smooth
+steed,mare
+steely,determined
+stench,stink
+stereotypical,clich?d
+stickiness,gumminess
+stigma,shame
+stimulus,spur
+stitching,edging
+stockade,parapet
+stoke,add fuel to
+stomp,trudge
+stoneware,ceramics
+stool,bench
+storeroom,lumber room
+storming,attack
+stout,solid
+stranded,trapped
+strengthening,increase
+strongbox,safe deposit box
+student,apprentice
+study,examine
+stuffily,priggishly
+sturdiness,hardiness
+sublime,transcendent
+submit,surrender
+subsequent,later
+subsist,live
+substratum,solid rock
+substructure,bed
+subsume,list
+suburban,housing
+succeed,make it
+successively,one after another
+succulence,tenderness
+suffer,endure
+sufferer's,wounded
+sugared,syrupy
+suggested,not compulsory
+suited,apposite
+sulkiness,moodiness
+summit,peak
+sumptuous,magnificent
+supercilious,scornful
+superstition,false notion
+supplies,equipment
+surely,indeed
+surfeit,oversupply
+surge,rush
+surpass,best
+surprise,bolt from the blue
+surviving,extant
+suspense,tension
+suspenseful,fast-moving
+suspicions,fears
+suture,stitch
+swashbuckling,blustery
+swearword,curse
+switch,thrash
+sycophant,flatterer
+synthetically,falsely
+system,logic
+tabulate,chart
+taciturn,silent
+takeoff,impression
+tanned,suntanned
+tantamount,practically the same as
+tantrum's,grumpiness
+tautly,straight
+tawdry,crude
+technology,equipment
+Teddy,teddy bear
+tediously,monotonously
+teeny,microscopic
+tenant,occupant
+tenseness,tension
+tepid,lackadaisical
+terrifyingly,dreadfully
+thank,be grateful
+theatrical,over-the-top
+therapeutic,remedial
+thespian,theatrical
+thing's,effects
+thinly,delicately
+thwart,put a stop to
+ticklish,problematic
+tightness,stiffness
+timeliness,rightness
+timidity,shyness
+timorously,bashfully
+tingly,smarting
+titter,snigger
+titular,ostensible
+toadstool,mold
+toboggan,sledge
+toehold,footing
+tolerable,fair
+toneless,dull
+tooth,pointed tooth
+toothsome,delicious
+topple,bring down
+top's,nail clippings
+trader,dealer
+trailer,ad
+trainee,beginner
+transgression,wrongdoing
+transmittal,payment
+transmutation,transformation
+transmute,metamorphose
+transparently,obviously
+transverse,oblique
+trash,gibberish
+travel,journey
+traveler,tourist
+treasury,reserves
+trenchant,forceful
+tributary,branch
+trice,instant
+trifling,inconsequential
+trimness,compactness
+trophy,plaque
+truthfulness,faithfulness
+turkey,failure
+turning,rotary
+turnover,income
+tutelage,auspices
+tweeting,chirping
+twister,storm
+twitch,shudder
+ubiquitously,the world over
+ulterior,concealed
+ultimately,eventually
+umpire,judge
+unacceptable,improper
+unaltered,unchanged
+unassuming,unpretentious
+uncanny,mysterious
+uncoil,unravel
+unconditionally,categorically
+unconquerable,unattainable
+uncontaminated,sterilized
+uncontrollably,frenziedly
+unconvinced,unimpressed
+unconvincingly,feebly
+uncooperative,stubborn
+unctuous,groveling
+undamaged,unharmed
+undemanding,straightforward
+undemonstrative,impassive
+underneath,bottom
+undernourished,weak
+underpinning,keystone
+understandably,justifiably
+undertakings,events
+underwater,undersea
+undeveloped,emergent
+undistinguished,indifferent
+undivided,entire
+unemotional,impassive
+unequal,inequitable
+unevenly,unequally
+unevenness,roughness
+unfaithful,untrue
+unfaithfully,faithlessly
+unfitting,tactless
+unflattering,unappealing
+unforgivable,unwarrantable
+unfrequented,secluded
+ungrammatical,faulty
+uniform,standardized
+unimpressed,uninterested
+uninhabitable,in a state of disrepair
+uninitiated,dilettante
+uninterested,impassive
+uninterrupted,incessant
+uniqueness,exclusivity
+unmarried,free
+unnecessary,excessive
+unnoticed,unobserved
+unperturbed,in peace
+unplanned,accidental
+unpredictability,volatility
+unprepared,unawares
+unqualified,complete
+unquestioning,automatic
+unripe,green
+unruffled,unflustered
+unseat,depose
+unsentimental,hard-bitten
+unsigned,secret
+unskilled,unskillful
+unsnarl,detangle
+unspoken,undeclared
+unsteady,irregular
+unsuitable,unbefitting
+unsuitably,incongruously
+untaught,uneducated
+untested,experimental
+unwarranted,unnecessary
+unwittingly,unintentionally
+unwrap,remove
+upscale,chic
+upsetting,displeasing
+upshot,consequence
+Urban,inner-city
+uttermost,outermost
+vacation,trip
+vacillate,think twice
+vagrant,drifter
+validly,truly
+valorous,brave
+valuables,proceeds
+valuation,appraisal
+vanquished,beaten
+variability,changeability
+varied,different
+vault,tomb
+vehemence,enthusiasm
+veiled,obscure
+venomous,spiteful
+veracity,sincerity
+verbosity,wordiness
+vetoed,prevented
+vibration's,feelings
+vigor,dynamism
+villain,baddie
+virtue's,merits
+viscera,entrails
+visibly,plainly
+vocalization's,dialogue
+vocational,employment
+voice,accent
+volatility,explosive nature
+voraciously,ravenously
+voter's,constituency
+voucher,ticket
+voyage,trek
+vulture,scavenger
+waning,declining
+wannabe,aspirant
+ware's,commodities
+warren,lair
+warring,war
+wastefully,inefficiently
+wastrel,spendthrift
+watcher,outsider
+watchfully,attentively
+waver,vacillate
+wayfarer,hobo
+weakened,diluted
+weakening,deterioration
+wedlock,matrimony
+weeping,lament
+welcome,salutation
+wherewithal,ability
+whirling,turning
+whirlpool,vortex
+whisker's,body hair
+whispered,thought
+whopper,Goliath
+wiggle,waggle
+wiles,guile
+wilting,bendy
+windowpane,sheet of glass
+windstorm,whirlwind
+without,lacking
+woebegone,despairing
+woolly,imprecise
+workers,staff
+worrywart,fussbudget
+worthily,commendably
+wrest,extort
+written,on paper
+yearning,craving
+youngster,youth
+zealous,fanatical
+zilch,zero
