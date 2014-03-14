@@ -1,0 +1,154 @@
+﻿# Version: $Id$
+#
+# Synonym file format
+# Explicit mappings match any token sequence on the LHS of "=>"
+# and replace with all alternatives on the RHS.  These types of mappings
+# ignore the expand parameter in the schema.
+# Examples:
+#  i-pod, i pod => ipod,
+#  sea biscuit, sea biscit => seabiscuit
+#
+# Equivalent synonyms may be separated with commas and give
+# no explicit mapping.  In this case the mapping behavior will
+# be taken from the expand parameter in the schema.  This allows
+# the same synonym file to be used in different synonym handling strategies.
+# Examples:
+#  ipod, i-pod, i pod
+#  foozball , foosball
+#  universe , cosmos
+#
+# If expand==true, "ipod, i-pod, i pod" is equivalent to the explicit mapping:
+#  ipod, i-pod, i pod => ipod, i-pod, i pod
+# If expand==false, "ipod, i-pod, i pod" is equivalent to the explicit mapping:
+#  ipod, i-pod, i pod => ipod
+#
+# multiple synonym mapping entries are merged.
+#  foo => foo bar
+#  foo => baz
+# is equivalent to
+#  foo => foo bar, baz
+#
+# Note: blank lines and lines starting with pound are comments.
+#
+
+#
+# Animals
+Livestock, domesticated animals, farm animals
+
+#
+# Business
+MLM, Multi-level marketing
+MYOB, Mind Your Own Business
+CRM, Customer relationship management
+
+#
+# Community
+Announcements, Public Notices
+
+#
+# Dating
+Adult chat lines, Phone Sex, Sex Hotline
+STD, Sexually transmitted disease
+XXX, Sex, Porn
+
+#
+# Finance
+FX, Forex, Foreign Exchange, Currency Market
+
+#
+# Items
+Television, Televisions, TV, TVs
+
+# IT - abbreviations
+IT, Information Technology
+CRM, Customer relationship management
+SAS, Statistical Analysis System
+SEM, Search engine marketing
+ERP, Enterprise resource planning
+BPO, Business process outsourcing
+CSS, Cascading Style Sheets
+IIS, Internet Information Services
+JSP, JavaServer Pages
+HTML, HTM, HyperText Markup Language
+XML, Extensible Markup Language
+MVC, Model–view–controller, Model View Controller
+OCR, Optical character recognition
+PDF, Portable Document Format, Adobe Reader
+BSD => FreeBSD, NetBSD, OpenBSD
+RWD, Responsive Design
+IE, Internet Explorer
+SQL, Structured Query Language
+SQL => MySQL, Oracle, PostgreSQL, Sybase
+HP, Hewlett-Packard
+VPS, virtual private server
+SEO, search engine optimization
+VoIP, Voice over IP
+XSLT, EXtensible Stylesheet Language
+RTOS, real-time operating system
+PLC, Programmable Logic Controller, Programmable Controller
+SCADA, supervisory control and data acquisition
+VHDL, VHSIC Hardware Description Language
+OS, operating system
+OOP, Object-oriented programming
+CA, Certificate
+CDN, Content Delivery Network
+DB, Database
+JDBC, Java Database Connectivity
+L10N, Localization
+LAMP, Linux Apache MySQL PHP, Linux Apache MySQL Perl, Linux Apache MySQL Python
+LAN, Local Area Network
+P2P, Peer-To-Peer
+Asm, Assembler
+UI, User Interface
+UX, User Experience
+CGI, Computer-Generated Imagery, Common Gateway Interface
+IASA, Global IT Architect Association
+RDBMS, relational database management system
+SSRS, SQL Server Reporting Services
+SSIS, SQL Server Integration Services
+ETL, Extract, Transform and Load
+VBS, VBScript, Visual Basic Scripting, Visual Basic Script
+GMI, Global Market Insite
+MRO, maintenance, repair, and operations, Maintenance, Repair, and Overhaul
+ALGO, Algo, Algorithmic
+# IT - technology and associated names
+Linux => Ubuntu, Red Hat, Debian, Slackware
+web browser => Chrome, Firefox, Internet Explorer
+OO => Object-oriented, Object oriented, Open Office
+Assembler => TASM
+IRC, Internet Relay Chat
+# IT - software
+Chrome => Google Chrome
+Firefox => Mozilla Firefox
+Word, Microsoft Word
+Java => J2EE, J2ME, J2SE
+# IT - units
+# Note: we use "gib" instead of "GiB" so any WordDelimiterFilter coming after us won't split it into two words.
+GB,gib,gigabyte,gigabytes
+MB,mib,megabyte,megabytes
+KB,kib,kilobyte,kilobytes
+# IT - synonyms
+open source, GPL, GNU
+wiki, wikipedia
+Text processor, word processor
+Freelancing, Outsourcing
+
+#
+# Jobs
+HR, Human Resources
+QA, Quality assurance
+BBA, Bachelor of Business Administration
+PMP, Project Management Professional
+CGA, Certified General Accountants
+DevOps, DevOp, Development and Operations
+
+#
+# Vehicles
+RV, Motorhome, Motor coach
+Campervan, Camper van, Caravanette
+TC, Truck camper
+Popup camper, Pop-up camper, Tent trailer
+Travel trailer, Caravan
+Teardrop trailer, Teardrop camper trailer
+Vintage car, Antique car, Veteran car
+Automobile, Car, Motorcar, Sedan, Roadster, Auto, Coupe
